@@ -1,0 +1,6 @@
+This is a sample text file created for testing purposes.
+    It contains sample text, and more text, text everywhere.
+    Text is good. Sample good sample, good.
+    The quick brown fox jumps over the lazy dog.
+    Dog, fox, cat, dog, mouse.
+    Python is great, Python is fun.
